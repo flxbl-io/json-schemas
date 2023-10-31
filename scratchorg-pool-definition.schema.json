@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "https://raw.githubusercontent.com/dxatscale/sfpowerscripts/develop/packages/sfpowerscripts-cli/resources/schemas/pooldefinition.schema.json",
+    "$id": "https://raw.githubusercontent.com/flxbl-io/json-schemas/main/scratchorg-pool-definition.schema.json",
     "title": "pool definition",
     "description": "The definition for creating a pool of scratch orgs in sfpowerscripts",
     "type": "object",
